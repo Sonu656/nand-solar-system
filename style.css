@@ -44,8 +44,9 @@ nav a:hover {
 /* Hero Section */
 .hero {
   background: url('images/solar.jpg') no-repeat center center/cover;
-  height: 40vh;
-  display: flex;
+  width: 100%;
+  height: auto;
+  display: block;
   justify-content: center;
   align-items: center;
   color: #fff;
