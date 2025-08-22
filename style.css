@@ -53,18 +53,7 @@ nav a:hover {
   text-align: center;
   padding: 20px;
 }
-.hero {
-  height: 60vh;            /* Adjust section height */
-  display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center;     /* Center vertically */
-  background-color: #003300; /* optional background */
-}
 
-.hero-logo {
-  max-width: 100%;   /* responsive, never bigger than screen */
-  height: auto;      /* keeps aspect ratio */
-}
 .hero h1 {
   font-size: 3rem;
   margin-bottom: 10px;
