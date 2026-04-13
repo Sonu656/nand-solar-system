@@ -42,9 +42,13 @@ nav a:hover {
 }
 
 /* Hero Section */
+
 .hero {
-  background: url('images/solar.jpg') no-repeat center center/cover;
-  
+  background-image: url('images/solar.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;   /* change to contain if needed */
+
   height: 80vh;
   display: flex;
   justify-content: center;
