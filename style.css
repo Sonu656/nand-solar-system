@@ -49,13 +49,13 @@ nav a:hover {
   background-position: center;
   background-size: cover;   /* change to contain if needed */
 
-  height: 80vh;
+  height: 60vh;
   display: flex;
   justify-content: center;
   align-items: center;
   color: #fff;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
 }
 
 .hero h1 {
